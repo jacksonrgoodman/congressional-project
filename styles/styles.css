@@ -1,3 +1,27 @@
+body {
+    background: whitesmoke
+}
 a {
     font-size: larger;
+}
+.article {
+    display: flex;
+}
+.marshaArticle {
+    background: white;
+    text-align: center;
+}
+.Committees {
+    border: 3px dotted blue;
+}
+.Bills {
+    border: 3px dotted red;
+}
+.website {
+    border: 3px dotted purple;
+    list-style-type: none;
+}
+.twitter {
+    border: 3px dotted greenyellow;
+    list-style-type: none;
 }
